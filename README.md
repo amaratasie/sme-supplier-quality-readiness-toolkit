@@ -8,4 +8,4 @@ Published 23 September 2026 from the `main` branch at `/ (root)`. The GitHub Pag
 
 The site contains an APQP launch timeline, a simplified PPAP preparation checklist, a supplier scorecard, and an 8D corrective action guide. The first three tools are in one editable workbook; the guide is a Word document. The complete package and detailed usage instructions are in `files/`.
 
-This is an original educational toolkit for manufacturers with fewer than 200 employees. It does not replace customer-specific requirements, governing quality manuals, regulatory obligations, or an authorized customer approval. It contains no employer or customer data and no claimed SME pilot results.
+This is an original educational toolkit for small and medium-sized U.S. manufacturers. It does not replace customer-specific requirements, governing quality manuals, regulatory obligations, or an authorized customer approval. It contains no employer or customer data and no claimed SME pilot results.
