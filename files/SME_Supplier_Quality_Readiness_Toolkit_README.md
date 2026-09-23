@@ -2,7 +2,7 @@
 
 Version 1.0 · 23 September 2026 · Amarachukwu (Amara) Tasie
 
-This toolkit helps a U.S. manufacturer with fewer than 200 employees prepare a new or changed part for customer review, monitor a supplier, and investigate a quality problem. It is a set of original planning aids. It is not an AIAG publication, a PPAP approval, a certification, or a substitute for customer, regulatory, or sector requirements.
+This toolkit helps small and medium-sized U.S. manufacturers prepare a new or changed part for customer review, monitor a supplier, and investigate a quality problem. It is a set of original planning aids. It is not an AIAG publication, a PPAP approval, a certification, or a substitute for customer, regulatory, or sector requirements.
 
 ## Files
 
